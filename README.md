@@ -32,67 +32,28 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global CRM software market is valued at approximately **$113 billion to $126 billion** (2025–2026), continuing double-digit compounding growth driven by cloud migration and autonomous AI agent workflows. Structurally, the sector exhibits a **barbell dynamic**: it is **concentrated at the enterprise tier** where a handful of giants (Salesforce, Microsoft, Oracle, SAP) control high-end corporate accounts, but **highly fragmented across the broader market**, where hundreds of mid-market, SMB, and AI-native specialized platforms compete without a winner-take-all outcome.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Salesforce Einstein 1 / Agentforce](https://www.salesforce.com/)**
-
-  **Enterprise CRM with agentic AI layer** for autonomous sales workflows. Gartner 2026 highlights predictive scoring, conversation intelligence, agentic cadences, and **governance controls including agent analytics, trust-layer guardrails, and audit tracing** for autonomous actions . **Pricing**: Agentforce Sales Pro Suite ~$100/user/month; Agentforce priced separately at ~$550/user/month for advanced agent orchestration . **Free tier**: None. **Best for**: enterprises orchestrating AI agents across sales, service, and custom clouds—with the governance controls that agent autonomy demands.
-
-
-
-- **[HubSpot Smart CRM (Breeze)](https://www.hubspot.com/)**
-
-  **AI included out of the box across paid tiers**, with Breeze Prospecting Agent (research and outreach) and Breeze Customer Agent (support). Data enrichment runs on HubSpot's Clearbit acquisition; predictive lead scoring uses your own conversion history . **Pricing**: Free CRM for unlimited users; Starter $15/seat/month; Sales Hub Professional $100/seat/month (includes Breeze agents and $1,500 onboarding) . **Free tier**: Yes, with Breeze basics. **Best for**: SMBs and mid-market teams wanting useful AI without a separate AI project—Breeze works out of the box at a fraction of Agentforce's cost.
-
-
-
-- **[Zoho Zia](https://www.zoho.com/crm/)**
-
-  **AI layer across Zoho CRM** with predictive scoring and assistant-led workflows. **Zia Agent Studio** gives administrators a granular environment to configure knowledge sources and manage multi-agent orchestration . **Pricing**: Quote-only; tiered by users and features. **Free tier**: Limited. **Best for**: Zoho-centric organizations wanting a unified AI experience—**note**: Gartner flagged incomplete mobile AI (Zia primarily optimized for desktop) .
-
-
-
-- **[Freshworks Freddy AI](https://www.freshworks.com/)**
-
-  **AI sales CRM** with lead scoring, deal insights, and content generation built in. Accessible SMB pricing from **$9/user/month** . **Pricing**: Growth $9, Pro $39, Enterprise $59/user/month (annual) . **Free tier**: Trial available. **Best for**: SMBs wanting integrated AI at a materially lower price point than Salesforce or HubSpot Professional—**trade-off**: less workflow depth and smaller ecosystem .
-
-
-
-- **[Microsoft Dynamics 365 Copilot](https://www.microsoft.com/dynamics-365)**
-
-  **Sales workflows across Dynamics 365, Outlook, Teams, and Microsoft 365 Copilot**. **Sales Research Agent** combines CRM information with web insights and SQL context to investigate opportunities and surface account intelligence . **Pricing**: Quote-only; bundled with Dynamics 365 licenses. **Free tier**: None. **Best for**: Microsoft-centric enterprises where sellers already live in Outlook and Teams—Copilot meets them there.
-
-
-
-- **[Pipedrive AI](https://www.pipedrive.com/)**
-
-  **Pipeline-first CRM with Nova meeting intelligence and native MCP server on every plan**. AI email creation and deal notifications start on Premium . **Pricing**: Lite from $14/seat/month (includes AI report creation, Nova, MCP); Premium $59/seat/month for AI automations . **Free tier**: 14-day trial, no credit card. **Best for**: SMB and mid-market teams wanting a visual pipeline with AI that doesn't require enterprise configuration.
-
-
-
-- **[Creatio](https://www.creatio.com/)**
-
-  **No-code CRM with AI governance capabilities**. Gartner highlights **session monitoring, latency tracking, token consumption, audit trails, evaluation tools, and rollback mechanisms** for AI agents . **Pricing**: Quote-only. **Free tier**: None. **Best for**: organizations prioritizing AI governance and auditability—**trade-off**: configuration burden for sophisticated AI workflows .
-
-
-
-- **[SugarCRM](https://www.sugarcrm.com/)**
-
-  **Enterprise CRM** with AI capabilities through SugarPredict. **Pricing**: Quote-only. **Free tier**: None. **Best for**: organizations wanting a mature CRM with optional AI add-ons—**note**: the open-source SuiteCRM fork lacks AI features .
-
-
+| Platform | Company Size (Valuation / Revenue) | Starting Pricing (Specific Tier) | Free Tier / Free Trial Limits | Key AI Capabilities & Best For |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Microsoft Dynamics 365 Copilot](https://www.microsoft.com/dynamics-365)** | **$3.87T+ Market Cap**<br>($331.8B FY26 Revenue) | **$65/user/month** (Sales Professional; $105/user/mo for Sales Enterprise with embedded Copilot; $150/user/mo for Sales Premium) | **30-day free trial** (Full evaluation access, can be extended once by 30 days to 60 days total via admin banner; 0 permanent free users) | Sales Research Agent combines CRM data with Microsoft 365, Teams, Outlook, and SQL context. Best for Microsoft-centric enterprises. |
+| **[Salesforce Einstein 1 / Agentforce](https://www.salesforce.com/)** | **~$190B Market Cap**<br>($41.5B FY26 Revenue) | **$25/user/month** (Starter Suite; Agentforce Sales Pro Suite ~$100/user/mo; standalone Agentforce add-on ~$550/user/mo) | **30-day free trial** (Starter Suite trial supports up to 10 users, 2,000 marketing emails, out-of-the-box AI email drafting; 0 permanent free users) | Autonomous agentic cadences, predictive scoring, trust-layer guardrails, audit tracing, and cross-cloud agent orchestration. Best for large enterprises requiring strict AI governance. |
+| **[HubSpot Smart CRM (Breeze)](https://www.hubspot.com/)** | **~$12.8B Market Cap**<br>($3.7B FY26 Run-rate) | **$15/seat/month** (Starter; Sales Hub Professional at $100/seat/mo includes Breeze agents + $1,500 onboarding) | **Free forever plan** (Strictly capped at **2 users**, **1,000 contact records**, 2,000 marketing emails/mo, 1 pipeline, 10 custom properties; includes Breeze basics) | Breeze Prospecting Agent, Breeze Customer Agent, and automatic lead scoring. Best for SMBs and mid-market teams seeking out-of-the-box AI without enterprise setup overhead. |
+| **[Zoho Zia](https://www.zoho.com/crm/)** | **~$12.5B Valuation** (est.)<br>(~$1.5B FY25 Revenue) | **$14/user/month** billed annually ($20/mo monthly for Standard; Zia AI unlocked on Enterprise at $40/user/mo) | **Free forever plan** (Strictly capped at **3 users**, **5,000 records**, 1 GB organization file storage, no API access, 5 custom list views) | Zia Agent Studio for custom knowledge sources and multi-agent workflows, conversational AI, and anomaly detection. Best for Zoho-centric organizations wanting affordable automation. |
+| **[Freshworks Freddy AI](https://www.freshworks.com/)** | **~$4.1B Market Cap**<br>(~$904M TTM Revenue) | **$9/user/month** billed annually ($11/mo monthly for Growth; Pro at $39/user/mo, Enterprise at $59/user/mo) | **Free forever plan** (Capped at **3 users**, basic contact/deal management without sales sequences or bulk email SMTP; plus 21-day Pro free trial) | Freddy AI copilot for deal insights, automated email copy generation, and predictive contact scoring. Best for SMBs wanting fast deployment at low cost. |
+| **[Pipedrive AI](https://www.pipedrive.com/)** | **~$1.5B Valuation**<br>(~$207M ARR est.) | **$14/seat/month** billed annually ($24/mo monthly for Lite; Premium at $59/seat/mo for AI automations) | **14-day free trial** (Full access to chosen tier including Nova meeting intelligence and native MCP tools, no credit card required; 0 permanent free users) | Nova meeting intelligence, AI deal summaries, email generation, and native MCP server integration on all plans. Best for sales reps focused on visual pipeline management. |
+| **[Creatio](https://www.creatio.com/)** | **$1.2B Valuation**<br>(~$210M ARR est.) | **$55/user/month** ($40/user/mo Growth platform base + $15/user/mo Sales Creatio add-on; $10k annual minimum purchase) | **14-day free trial** (Full access to Freedom UI, Studio no-code workflow builder, and AI capabilities without credit card; 0 permanent free users) | Session monitoring, token tracking, audit trails, and evaluation/rollback tools for AI agents. Best for organizations prioritizing no-code adaptability and rigorous AI governance. |
+| **[SugarCRM](https://www.sugarcrm.com/)** | **~$500M Valuation** (est.)<br>(~$105M ARR est.) | **$68/user/month** billed annually (Sugar Sell Standard+; Advanced+ at $98/user/mo, Premier+ at $155/user/mo) | **No self-service free trial or free tier** (Requires sales-assisted demo and custom proof-of-concept provisioning; 0 self-serve free days/users) | SugarPredict AI engine for predictive deal scoring, churn analysis, and automated opportunity sentiment tracking. Best for mid-to-large businesses looking for sales cycle automation. |
 
 ## Open-Source GitHub Projects
 
