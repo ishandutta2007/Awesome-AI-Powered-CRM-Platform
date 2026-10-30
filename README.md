@@ -1,48 +1,48 @@
-# Awesome-AI-Powered-CRM-Platform
+# Awesome AI-Powered CRM Platform 🚀
 
-# Awesome-AI-Powered-CRM-Platform
+<div align="center">
+  <img src="./assets/banner.svg" alt="Awesome AI-Powered CRM Platform Banner" width="100%" />
 
-**Top AI Powered CRM Platform (Opensource) 🌟 Star if you like it! 🌟**
+  <br/><br/>
 
+  <!-- Badges bar -->
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Powered-CRM-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Powered-CRM-Platform?style=social&color=white" alt="Repo Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Powered-CRM-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Powered-CRM-Platform?style=social&color=white" alt="Repo Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Powered-CRM-Platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
+  <p align="center">
+    <b>🌟 Curated directory of AI-native CRM suites, autonomous sales agents, and self-hosted open-source CRM architectures with native Model Context Protocol (MCP) support. 🌟</b>
+  </p>
+</div>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+---
 
-*Focused on AI Assistants, Predictive Scoring, MCP Integration & Self-Hosted Agentic CRM*
+## 📑 Table of Contents
 
-**Last updated: October 2026**
+- [🌟 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS & Hosted Platforms](#-saas--hosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Additional Open-Source & Ecosystem Tools](#️-additional-open-source--ecosystem-tools)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
+- [⚖️ Disclaimer](#️-disclaimer)
 
+---
 
+## 🌟 Sector Overview & Market Dynamics
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **AI-Powered CRM Platforms**. These tools enable sales and revenue teams to automate data entry, score leads, summarize conversations, and interact with CRM records through natural language—from fully managed enterprise suites with embedded AI agents and governance guardrails to self-hosted CRMs with built-in AI chat and MCP servers that give teams complete control over their customer data and model choices.
+The global CRM software market is valued at approximately **$113 billion to $126 billion** (2025–2026), continuing double-digit compounding growth driven by enterprise cloud modernization, sales cycle automation, and autonomous AI agent workflows. 
 
+Structurally, the market exhibits a **barbell dynamic**:
+- **Concentrated Enterprise Apex**: Top tech conglomerates (Salesforce, Microsoft, Oracle, SAP) command the high-end enterprise sector with deep multi-cloud integrations and strict security guardrails.
+- **Fragmented Long Tail & AI-Native Innovators**: The mid-market, SMB, and developer tiers are highly fragmented among hundreds of specialized SaaS solutions and open-source platforms, ensuring there is no single "winner-take-all" outcome.
 
+---
 
-**Examples** include HubSpot Smart CRM (Breeze), Salesforce Einstein 1 (Agentforce), Zoho Zia, Freshworks Freddy, Microsoft Dynamics 365 Copilot, Pipedrive AI, Creatio, and the open-source Twenty and Relaticle (the category leaders in commercial and open-source space).
-
-
-
-**Open-source emphasis**: This section is expanded with every relevant project for self-hosting, AI-native CRM, and open agent infrastructure. **Critical note**: The open-source CRM landscape has matured significantly—**Twenty** and **Relaticle** now offer production-grade AI features with MCP support—but no open-source project matches Salesforce Agentforce's agent orchestration breadth or HubSpot Breeze's out-of-the-box included AI. The projects below range from AI-native CRMs with 37+ MCP tools to file-based minimalist CRMs with AI querying.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
-
-The global CRM software market is valued at approximately **$113 billion to $126 billion** (2025–2026), continuing double-digit compounding growth driven by cloud migration and autonomous AI agent workflows. Structurally, the sector exhibits a **barbell dynamic**: it is **concentrated at the enterprise tier** where a handful of giants (Salesforce, Microsoft, Oracle, SAP) control high-end corporate accounts, but **highly fragmented across the broader market**, where hundreds of mid-market, SMB, and AI-native specialized platforms compete without a winner-take-all outcome.
-
-## SaaS/Hosted Platforms
+## 🏢 SaaS & Hosted Platforms
 
 | Platform | Company Size (Valuation / Revenue) | Starting Pricing (Specific Tier) | Free Tier / Free Trial Limits | Key AI Capabilities & Best For |
 | :--- | :--- | :--- | :--- | :--- |
@@ -55,110 +55,124 @@ The global CRM software market is valued at approximately **$113 billion to $126
 | **[Creatio](https://www.creatio.com/)** | **$1.2B Valuation**<br>(~$210M ARR est.) | **$55/user/month** ($40/user/mo Growth platform base + $15/user/mo Sales Creatio add-on; $10k annual minimum purchase) | **14-day free trial** (Full access to Freedom UI, Studio no-code workflow builder, and AI capabilities without credit card; 0 permanent free users) | Session monitoring, token tracking, audit trails, and evaluation/rollback tools for AI agents. Best for organizations prioritizing no-code adaptability and rigorous AI governance. |
 | **[SugarCRM](https://www.sugarcrm.com/)** | **~$500M Valuation** (est.)<br>(~$105M ARR est.) | **$68/user/month** billed annually (Sugar Sell Standard+; Advanced+ at $98/user/mo, Premier+ at $155/user/mo) | **No self-service free trial or free tier** (Requires sales-assisted demo and custom proof-of-concept provisioning; 0 self-serve free days/users) | SugarPredict AI engine for predictive deal scoring, churn analysis, and automated opportunity sentiment tracking. Best for mid-to-large businesses looking for sales cycle automation. |
 
-## Open-Source GitHub Projects
-
-
-
-- **[Relaticle](https://github.com/relaticle/relaticle)**
-
-  **Open-source CRM with built-in AI assistant and 37 MCP tools** (AGPL-3.0) — **the most AI-native open-source CRM** found in this research, with ~1,790 GitHub stars and active development (last commit 10 hours ago) . **Features**: **Built-in AI chat** for natural-language queries, record creation/update by typing, pipeline summaries, and task rollups; **voice input**; **destructive actions require approval cards with 5-second undo**; **MCP server with 37 tools** connecting Claude, ChatGPT, Gemini, or custom agents through the same permission layer and schema as the UI; custom data model with **22 field types** including entity relationships, conditional visibility, and per-field encryption; 5-layer authorization with multi-workspace support; REST API; CSV import/export . **Production hardening**: 2,000+ automated tests, PHPStan static analysis, 56+ MCP-specific tests . **Tech stack**: PHP (Laravel), PostgreSQL. **Deploy**: Self-hosted (KVM VPS with one-click installer) or managed hosting. **Trade-off**: **PHP/Laravel stack** may not suit teams preferring TypeScript; smaller ecosystem than Twenty; AI requires your own provider keys (Anthropic, Google, or OpenAI-compatible) . **Best for**: teams wanting a production-ready open-source CRM where AI is woven into three distinct interfaces—traditional UI, chat, and external agent MCP—with approval workflows for destructive actions.
-
-
-
-- **[Twenty 2.0](https://github.com/twentyhq/twenty)**
-
-  **Developer-friendly open-source CRM** (AGPL-3.0, ~59,855 stars growing quickly) — **the most popular open-source Salesforce alternative**, with a 2.0 release focused on AI integration and enterprise hardening . **Features**: **MCP integration with OAuth** for external AI clients (Claude can directly access CRM data secured via established authentication); internal AI renamed to `Ai` with new error codes; **SDK split into subpaths reducing bundle size by 700x** for serverless Logic Functions; Docker targets for AWS EKS; OAuth PKCE mandatory for public clients; GraphQL admin panel; SVG export; improved i18n . **Tech stack**: TypeScript, React, Node.js, PostgreSQL. **Deploy**: Self-hosted (Docker) or Twenty Cloud. **Trade-off**: **AI features are still maturing** compared to Relaticle's built-in chat and 37 MCP tools; no native AI chat interface for end users; commercial licensing and billing added in 2.0 for self-hosting . **Best for**: developers and technical teams wanting the most popular, actively developed open-source CRM with strong MCP foundations and a modern TypeScript stack.
-
-
-
-- **[EspoCRM](https://github.com/espocrm/espocrm)**
-
-  **Complete CRM with clean UI and powerful administration** (AGPL-3.0) — **a mature, feature-rich CRM with no AI features** . **Features**: Pipeline management, roles manager, audit log, analytics, fine-grained access control, OIDC/LDAP, email sync, rich library of paid extensions; complete API, active support, regular updates, SPA architecture, powerful import/export . **Tech stack**: PHP, home-made backend framework (Espo), Handlebars, Bootstrap, MySQL/PostgreSQL. **Deploy**: Self-hosted or cloud. **Trade-off**: **No AI-powered features**; homemade frameworks make code customization challenging; limited developer documentation; one-man project . **Best for**: teams wanting a proven, self-hosted CRM with strong administration and no AI dependency—pair with external AI tools via API if needed.
-
-
-
-- **[SuiteCRM](https://github.com/salesagility/SuiteCRM)**
-
-  **Feature-rich open-source CRM** (AGPL-3.0) — **the open-source successor to SugarCRM**, with a large user base but dated codebase . **Features**: Workflow automation, reporting tools, security suite (groups), customization framework, rich plugin ecosystem, logic hooks, extension framework . **Tech stack**: PHP 8, Smarty, custom framework/ORM, MySQL/MariaDB/SQLServer, jQuery. **Deploy**: Self-hosted. **Trade-off**: **No AI features**; outdated UI and coding practices; technical debt; clunky reports; subpar mobile UI . **Best for**: organizations with existing SuiteCRM investment needing workflow automation—**not a choice for AI-powered CRM**.
-
-
-
-- **[hermitcrm](https://pypi.org/project/hermitcrm/)**
-
-  **File-based minimalist CRM with AI querying and MCP server** (license per PyPI) — **the most radical approach: a CRM where every record is a Markdown file in a Git repo** . **Features**: **Every company is a folder, every contact and interaction is a file**; Git log for full history; **"Ask Hermit" question box** that answers from the current page or reads the whole data folder (read-only) with the AI; **MCP server with 10 read and 7 write tools** (records, bulk changes, undo); pipeline board with custom stages; follow-up radar; pre-meeting briefs; bookmarklet for LinkedIn enrichment; **enrichment via any AI CLI (claude, codex, gemini, grok)**; message drafts without AI in four languages . **Tech stack**: Python (CLI), Markdown files, Git. **Deploy**: Local CLI (`hermitcrm`); `serve --host 0.0.0.0` for network access. **Trade-off**: **Single-user, file-based**—no multi-tenant permissions, no team collaboration, no web UI for multiple users. Not a Glean or Salesforce replacement. **Best for**: individuals and very small teams wanting a Git-native, AI-queryable CRM they fully own—no database, no vendor, no lock-in.
-
-
-
-- **[Krayin CRM](https://github.com/krayin/laravel-crm)**
-
-  **Free and open-source Laravel CRM** (MIT) — **a Laravel-native alternative for SMEs** . **Features**: Complete customer lifecycle management; automates sales and marketing operations; built on Laravel ecosystem . **Tech stack**: PHP (Laravel). **Deploy**: Self-hosted. **Trade-off**: **No AI features mentioned in available sources**; smaller ecosystem than Twenty or EspoCRM; MIT license is permissive but verification of AI capabilities required. **Best for**: Laravel developers wanting a permissively licensed CRM foundation to extend with AI.
-
-
-
-- **[Odoo CRM](https://github.com/odoo/odoo)**
-
-  **ERP-integrated CRM** (LGPL-3 for Community) — **the choice when CRM must connect to inventory, accounting, and HR** . **Features**: Customizable workflows, integrations (auth & data), app marketplace, multi-channel (email, social media, VoIP), ERP modules covering finance, supply chain, POS, HR, marketing . **Tech stack**: Python, OWL JS framework, PostgreSQL. **Deploy**: Self-hosted or Odoo.sh. **Trade-off**: **Behemoth codebase**—most Odoo projects require specialized developers; not suitable for small businesses wanting simple CRM . **Best for**: organizations wanting CRM as one module of an integrated ERP—not a standalone AI CRM.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **enrichment-kit** — Open-source Clay.com alternative (TypeScript, ~33 stars). Multi-vendor enrichment waterfalls with bring-your-own API keys; pays ~85% less per lead than Clay by chaining cheap providers first . **Note**: **Enrichment tool, not a CRM**—it enriches leads, not manages pipelines or AI interactions. **Best for**: teams wanting to add cost-efficient enrichment to any CRM.
-
-- **Customermates** — Open-source CRM for small teams (source available). Contacts, organizations, deals via REST API, webhooks, and MCP for external AI clients . **Note**: Source-available, not OSI open source; minimal validation. **Best for**: small teams wanting a lightweight CRM with MCP access.
-
-
-
-**Frameworks for building custom systems**: Combine **Relaticle** for AI-native CRM with built-in chat and 37 MCP tools, **Twenty** for a developer-friendly TypeScript stack with MCP foundations, **EspoCRM** for a proven administration-heavy CRM (pair with external AI), and **enrichment-kit** for cost-efficient lead enrichment—creating an AI-powered CRM stack. **None of these match Salesforce Agentforce's agent orchestration or HubSpot Breeze's out-of-the-box included AI**, but Relaticle and Twenty cover the core AI-native needs for most teams.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, license (for open-source), and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- AI-powered CRM platforms handling customer data must comply with data protection regulations (GDPR, CCPA, etc.) and implement appropriate access controls. AI features that take actions (create, update, delete) require human-in-the-loop safeguards.
-
-- **The "AI included out of the box" vs. "AI-native with MCP" vs. "no AI" distinction is critical.** **HubSpot Breeze** includes useful AI across paid tiers without a separate project . **Salesforce Agentforce** offers the most powerful agent orchestration with governance guardrails—at ~$550/user/month . **Relaticle** is AI-native with built-in chat and 37 MCP tools, requiring your own LLM keys . **Twenty** has strong MCP foundations but AI features are still maturing . **EspoCRM, SuiteCRM, and Krayin** have **no AI features**—they are proven CRMs to pair with external AI tools . **Odoo** is an ERP first, CRM second. **Choose based on whether you want AI included, AI-native, or no AI.**
-
-- **Relaticle is the most AI-native open-source CRM** with approval workflows for destructive actions and 5-second undo—a critical safeguard that most open-source CRMs lack . **The trade-off**: PHP/Laravel stack and smaller ecosystem than Twenty.
-
-- **Twenty is the most popular open-source CRM** (~60k stars, growing quickly) with a 2.0 release focused on MCP and developer experience . **The trade-off**: no built-in AI chat for end users; MCP integration requires external clients. **It is the better choice for teams wanting to build their own AI layer on top of a modern CRM.**
-
-- **HubSpot Breeze is included, not an add-on.** Gartner noted HubSpot shifted from Niche Player to Challenger largely on seller experience and Breeze . **For SMBs, it is the pragmatic choice**—useful AI at $15–$100/seat/month without an AI project. **Salesforce Agentforce is more powerful but requires enterprise commitment** (~$550/user/month plus implementation) .
-
-- **Pricing opacity varies.** HubSpot, Freshsales, and Pipedrive publish tiered pricing. Salesforce publishes Agentforce tiers. Zoho, Microsoft, Creatio, and SugarCRM require sales contact. **Validate with direct vendor conversations against your team size and AI requirements.**
-
-- Self-hosted open-source solutions require proper server setup, LLM API key management, security hardening, and ongoing maintenance. **Customer data and AI conversations are sensitive**—ensure your deployment meets your organization's privacy and security requirements, and **verify that AI actions have appropriate approval workflows before enabling write access**.
-
-
+---
+
+## 🔓 Open-Source GitHub Projects
+
+Sorted in descending order by GitHub stargazer count. Each project features its real-time star badge linking directly to stargazers.
+
+- ### 1. **[Twenty 2.0](https://github.com/twentyhq/twenty)** [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)
+  - **License**: AGPL-3.0 | **Stack**: TypeScript, React, Node.js, PostgreSQL
+  - **Overview**: The most popular open-source Salesforce alternative. Version 2.0 focuses on AI integration, native MCP (Model Context Protocol) connectivity via OAuth, serverless Logic Functions, Docker EKS deployment targets, and GraphQL administration.
+  - **AI Capabilities**: Direct MCP endpoint access for LLMs (Claude, Gemini, ChatGPT) with granular authentication.
+  - **Best For**: Engineering-first teams desiring a modern TypeScript full-stack CRM with composable developer workflows.
+
+- ### 2. **[Odoo CRM](https://github.com/odoo/odoo)** [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)
+  - **License**: LGPL-3.0 | **Stack**: Python, JavaScript (OWL), PostgreSQL
+  - **Overview**: The world's most widely adopted open-source ERP/CRM suite. Powers end-to-end business operations across customer relationships, inventory, automated billing, and omnichannel marketing.
+  - **AI Capabilities**: Automated lead enrichment, AI communication draft assistants, and intelligent routing.
+  - **Best For**: Mid-market and enterprise organizations seeking a unified CRM wired into accounting and supply chain operations.
+
+- ### 3. **[ERPNext](https://github.com/frappe/erpnext)** [![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)
+  - **License**: GPL-3.0 | **Stack**: Python (Frappe Framework), MariaDB, Redis, Vue.js
+  - **Overview**: Comprehensive open-source business management software with full CRM, lead waterfall pipelines, communication histories, quotations, and deal progression workflows.
+  - **AI Capabilities**: Frappe AI integration for query generation, automated email summarizing, and pipeline health analytics.
+  - **Best For**: Businesses wanting a 100% free and open-source CRM integrated with complete business ERP modules.
+
+- ### 4. **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)
+  - **License**: AGPL-3.0 | **Stack**: Ruby on Rails, Vue.js, PostgreSQL
+  - **Overview**: Open-source customer engagement platform and conversational CRM alternative to Intercom and Zendesk. Aggregates WhatsApp, Twitter, Facebook, Email, and Live Chat into an omnichannel inbox.
+  - **AI Capabilities**: Captain AI assistant for conversational summaries, intent detection, response suggestions, and automated customer routing.
+  - **Best For**: Support and sales teams requiring real-time conversation-first CRM with omni-channel messaging.
+
+- ### 5. **[Krayin CRM](https://github.com/krayin/laravel-crm)** [![Stars](https://img.shields.io/github/stars/krayin/laravel-crm?style=social&color=white)](https://github.com/krayin/laravel-crm/stargazers)
+  - **License**: MIT | **Stack**: PHP (Laravel), Vue.js, MySQL
+  - **Overview**: High-performance, lightweight Laravel-native CRM built for SMEs. Offers intuitive lead management, custom attributes, Kanban boards, and extensible modular architecture.
+  - **AI Capabilities**: Extensible API-driven architecture ready for external LLM pipeline integrations.
+  - **Best For**: Laravel developers needing an enterprise-grade, permissively licensed CRM to customize and extend.
+
+- ### 6. **[Mautic](https://github.com/mautic/mautic)** [![Stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers)
+  - **License**: GPL-3.0 | **Stack**: PHP (Symfony), MySQL
+  - **Overview**: The leading open-source marketing automation and lead-scoring CRM platform. Enables automated multi-channel nurturing campaigns, behavioral tracking, and dynamic customer segmentations.
+  - **AI Capabilities**: Predictive audience segmentation, content personalization, and automated campaign triggering.
+  - **Best For**: Inbound marketing, growth marketers, and lead qualification teams desiring self-hosted marketing CRM power.
+
+- ### 7. **[SuiteCRM](https://github.com/salesagility/SuiteCRM)** [![Stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers)
+  - **License**: AGPL-3.0 | **Stack**: PHP, Smarty, MySQL / MariaDB
+  - **Overview**: The open-source evolution of SugarCRM. Highly battle-tested with millions of users globally, featuring granular role-based security suites, process workflow engines, and reporting dashboards.
+  - **AI Capabilities**: REST API ecosystem allowing external agentic and LLM tooling integrations.
+  - **Best For**: Organizations with mature enterprise sales workflows requiring on-premise data control and compliance.
+
+- ### 8. **[Erxes](https://github.com/erxes/erxes)** [![Stars](https://img.shields.io/github/stars/erxes/erxes?style=social&color=white)](https://github.com/erxes/erxes/stargazers)
+  - **License**: AGPL-3.0 | **Stack**: TypeScript, Node.js, React, MongoDB
+  - **Overview**: Open-source Experience Operating System (XOS) combining CRM, sales pipelines, marketing automation, service desk, and team collaboration into a single modular suite.
+  - **AI Capabilities**: Automated conversational bots, messaging bots, and contact lifecycle intelligence.
+  - **Best For**: Modern product and growth teams needing marketing, sales, and service tools bundled in a single TypeScript platform.
+
+- ### 9. **[EspoCRM](https://github.com/espocrm/espocrm)** [![Stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers)
+  - **License**: AGPL-3.0 | **Stack**: PHP, MySQL / PostgreSQL, Backbone.js
+  - **Overview**: Ultra-fast single-page application (SPA) CRM with an extensive administration layout editor, configurable entity relationships, OIDC/LDAP authentication, and complete REST APIs.
+  - **AI Capabilities**: Integrates cleanly with external OpenAI/Anthropic pipelines through webhooks and custom API extensions.
+  - **Best For**: Teams needing an ultra-responsive, cleanly architected self-hosted CRM with flexible custom schemas.
+
+- ### 10. **[Relaticle](https://github.com/relaticle/relaticle)** [![Stars](https://img.shields.io/github/stars/relaticle/relaticle?style=social&color=white)](https://github.com/relaticle/relaticle/stargazers)
+  - **License**: AGPL-3.0 | **Stack**: PHP (Laravel), Filament, PostgreSQL
+  - **Overview**: The most AI-native open-source CRM, featuring **37 built-in Model Context Protocol (MCP) tools** and embedded AI chat. Allows Claude, ChatGPT, or local LLMs to manipulate CRM entities through strict permissions.
+  - **AI Capabilities**: Embedded AI chat with voice support, 37 MCP server tools, 5-second undo approval cards for destructive actions, and entity relationship graphing.
+  - **Best For**: Teams wanting a production-grade AI-first CRM where autonomous agents are first-class citizens.
+
+- ### 11. **[NextCRM](https://github.com/pdovhomilja/nextcrm-app)** [![Stars](https://img.shields.io/github/stars/pdovhomilja/nextcrm-app?style=social&color=white)](https://github.com/pdovhomilja/nextcrm-app/stargazers)
+  - **License**: MIT | **Stack**: Next.js 14, TypeScript, Prisma, PostgreSQL (`pgvector`), Tailwind CSS
+  - **Overview**: Modern full-stack Next.js AI-native CRM featuring vector search embeddings and native MCP server endpoints with over 100 exposed tools.
+  - **AI Capabilities**: Built-in `pgvector` semantic customer search, E2B sandboxed agent workflows, and native HTTP/SSE MCP endpoints.
+  - **Best For**: Next.js developers and modern startups building custom AI agent sales architectures.
 
 ---
 
+## 🛠️ Additional Open-Source & Ecosystem Tools
 
+- **[HermitCRM](https://pypi.org/project/hermitcrm/)**: File-based minimalist CRM where every record is a Markdown file in a Git repo. Features "Ask Hermit" LLM querying and an MCP server with 17 tools.
+- **[Enrichment-Kit](https://github.com/enrichment-kit/enrichment-kit)**: Open-source waterfall data enrichment engine (Clay alternative) for high-efficiency lead qualification.
+- **[Twenty MCP Server (`KonstiDoll/twenty-crm-mcp-server`)](https://github.com/KonstiDoll/twenty-crm-mcp-server)**: Community Model Context Protocol server exposing Twenty CRM schemas to Claude and agentic runtimes.
 
-**Made for developers, sales teams, and organizations building transparent AI-powered CRM solutions.**
+---
 
-Let's make AI-Powered CRM Platforms more open, data-driven, and agent-governed.
+## 🤝 How to Contribute
+
+Contributions are warmly welcomed! Help make this curated repository the most comprehensive resource for AI-driven customer relationship management.
+
+1. 🍴 **Fork** the repository.
+2. 🌿 Create a descriptive feature branch: `git checkout -b feature/add-new-crm`.
+3. 📝 Add or update entries following the established format and tables.
+4. ⭐ Keep descriptions factual, objective, and link directly to official documentation or source repos.
+5. 🚀 Submit a PR with a concise summary of changes.
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this repository valuable for your research, team, or open-source stack, please consider supporting the project!
+
+- ⭐ **Star the repo**: Spread the word to help other developers discover AI CRM tools.
+- 🍴 **Fork & Share**: Share with sales ops, founders, and engineers building agentic workflows.
+- ☕ **Buy me a coffee**: Support ongoing curation, benchmarking, and updates via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+</p>
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-AI-Powered-CRM-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-AI-Powered-CRM-Platform&type=date&legend=top-left)
+
+---
+
+## ⚖️ Disclaimer
+
+- This is a community-curated list intended for research and informational purposes. No product placement or commercial endorsement is implied.
+- AI systems interacting with customer databases and PII (Personally Identifiable Information) must comply with local privacy regulations (GDPR, CCPA, HIPAA). Verify access control layers, audit tracing, and human-in-the-loop safeguards before deploying autonomous agents in production.
+- Commercial pricing and free-tier quotas fluctuate; verify current licensing terms directly with respective vendors.
