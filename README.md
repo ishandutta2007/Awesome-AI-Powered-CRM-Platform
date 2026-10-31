@@ -59,7 +59,7 @@ Structurally, the market exhibits a **barbell dynamic**:
 
 ## 🔓 Open-Source GitHub Projects
 
-Sorted in descending order by GitHub stargazer count. Each project features its real-time star badge linking directly to stargazers.
+Sorted in descending order by GitHub stargazer count. Each project features its real-time Stars_Badge linking directly to stargazers.
 
 - ### 1. **[Twenty 2.0](https://github.com/twentyhq/twenty)** [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)
   - **License**: AGPL-3.0 | **Stack**: TypeScript, React, Node.js, PostgreSQL
